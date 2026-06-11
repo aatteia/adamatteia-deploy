@@ -27,7 +27,7 @@ Or non-interactively:
 NODE_ENV=production npm run build
 for item in ../adamatteia-deploy/*; do
   name=$(basename "$item")
-  case "$name" in CNAME|.nojekyll|.gitignore) ;; *) rm -rf "$item" ;; esac
+  case "$name" in CNAME|.nojekyll|.gitignore|CLAUDE.md) ;; *) rm -rf "$item" ;; esac
 done
 cp -r out/* ../adamatteia-deploy/
 cd ../adamatteia-deploy && git add -A && git commit -m "<message>" && git push origin main
