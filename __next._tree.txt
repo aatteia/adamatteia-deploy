@@ -5,4 +5,4 @@
 :HL["/images/headshots/060.webp","image"]
 :HL["/images/headshots/057.webp","image"]
 :HL["/images/headshots/072.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"Ud6VFu7-17vnEEzx7oDdL"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"QIde7u9VFL_mFkUX7LEHu"}
