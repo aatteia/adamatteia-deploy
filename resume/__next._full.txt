@@ -1,28 +1,513 @@
 1:"$Sreact.fragment"
 2:I[39756,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
 3:I[37457,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
-4:I[82102,["/_next/static/chunks/0~n5zktg.kxcp.js","/_next/static/chunks/0dq7v7fbenorf.js","/_next/static/chunks/05aqeykp.w-d1.js"],"ThemeProvider"]
-5:I[22016,["/_next/static/chunks/0~n5zktg.kxcp.js","/_next/static/chunks/0dq7v7fbenorf.js","/_next/static/chunks/05aqeykp.w-d1.js"],""]
+4:I[82102,["/_next/static/chunks/0~n5zktg.kxcp.js","/_next/static/chunks/0dq7v7fbenorf.js","/_next/static/chunks/15z7lcbj1b0tc.js"],"ThemeProvider"]
+5:I[22016,["/_next/static/chunks/0~n5zktg.kxcp.js","/_next/static/chunks/0dq7v7fbenorf.js","/_next/static/chunks/15z7lcbj1b0tc.js"],""]
 b:I[68027,[],"default",1]
-:HL["/_next/static/chunks/174~n1h0g1mr2.css","style"]
+:HL["/_next/static/chunks/057h_bjsfj__n.css","style"]
 :HL["/_next/static/media/797e433ab948586e-s.p.08e28id.o-okb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/fba5a26ea33df6a3-s.p.0eehd8tgys7nv.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"P":null,"c":["","resume",""],"q":"","i":false,"f":[[["",{"children":["resume",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/174~n1h0g1mr2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en-AU","suppressHydrationWarning":true,"className":"plus_jakarta_sans_6ae0703a-module__xEkhoq__variable geist_mono_a74d3720-module__ylhdFq__variable h-full antialiased","children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var known=[\"blue\",\"black\",\"red\",\"green\"];var t=localStorage.getItem(\"theme\");if(known.indexOf(t)===-1){t=\"blue\"}document.documentElement.setAttribute(\"data-theme\",t)}catch(e){document.documentElement.setAttribute(\"data-theme\",\"blue\")}})();"}}],[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var c=window.CSS;var ok=!!(c&&c.supports&&c.supports(\"color\",\"color-mix(in srgb, red, blue)\")&&typeof c.registerProperty===\"function\");if(!ok){document.documentElement.setAttribute(\"data-browser-unsupported\",\"\")}}catch(e){document.documentElement.setAttribute(\"data-browser-unsupported\",\"\")}})();"}}],["$","style",null,{"dangerouslySetInnerHTML":{"__html":"#browser-support-notice{display:none}html[data-browser-unsupported] #browser-support-notice{display:block}"}}]],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Adam Atteia\",\"url\":\"https://adamatteia.com\",\"email\":\"mailto:adam.atteia@gmail.com\",\"jobTitle\":[\"UX Designer\",\"Service Designer\",\"Business Analyst\"],\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Canberra\",\"addressRegion\":\"ACT\",\"addressCountry\":\"AU\"},\"sameAs\":[\"https://www.linkedin.com/in/adamatteia\"]}"}}]]}],["$","body",null,{"className":"min-h-full flex flex-col","children":[["$","div",null,{"id":"browser-support-notice","role":"alert","style":{"boxSizing":"border-box","width":"100%","position":"relative","zIndex":2147483647,"padding":"14px 18px","background":"#1B4FD8","color":"#ffffff","fontFamily":"system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif","fontSize":"15px","lineHeight":1.5,"textAlign":"center"},"children":["$","span",null,{"style":{"display":"block","maxWidth":"52rem","margin":"0 auto"},"children":[["$","strong",null,{"style":{"fontWeight":700},"children":"Your browser is out of date."}]," ","This page needs a more recent browser to display correctly. Please update your device’s software, or open it in the latest Safari, Chrome, Edge, or Firefox."]}]}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L4",null,{"children":[["$","div",null,{"aria-hidden":"true","children":[["$","div",null,{"className":"pointer-events-none fixed inset-x-0 top-0 z-50 h-[15px] bg-frame md:h-[30px]"}],["$","div",null,{"className":"pointer-events-none fixed inset-x-0 bottom-0 z-50 h-[15px] bg-frame md:h-[30px]"}],["$","div",null,{"className":"pointer-events-none fixed inset-y-0 left-0 z-50 w-[15px] bg-frame md:w-[30px]"}],["$","div",null,{"className":"pointer-events-none fixed inset-y-0 right-0 z-50 w-[15px] bg-frame md:w-[30px]"}]]}],["$","main",null,{"className":"flex min-h-screen flex-col items-center justify-center px-6 text-center","children":[["$","p",null,{"className":"section-eyebrow","children":"404: Page not found"}],["$","h1",null,{"className":"mt-4 max-w-[16ch] text-balance text-4xl font-semibold tracking-[-0.02em] sm:text-5xl","children":"This page doesn’t exist."}],["$","p",null,{"className":"mt-4 text-lg leading-relaxed text-muted-foreground","children":"The site is a single page. Everything lives at the front."}],["$","$L5",null,{"href":"/","className":"mt-10 inline-flex items-center gap-2 text-lg font-semibold text-primary transition-opacity hover:opacity-70","children":["Back to adamatteia.com ","$L6"]}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}]]}],{"children":["$L7",{"children":["$L8",{},null,false,null]},null,false,"$@9"]},null,false,null],"$La",false]],"m":"$undefined","G":["$b",["$Lc"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"dDcAg7xds5ISewR9F9MTi"}
-d:I[24783,["/_next/static/chunks/0~n5zktg.kxcp.js","/_next/static/chunks/0dq7v7fbenorf.js","/_next/static/chunks/05aqeykp.w-d1.js"],"ScrollProgress"]
-e:I[22635,["/_next/static/chunks/0~n5zktg.kxcp.js","/_next/static/chunks/0dq7v7fbenorf.js","/_next/static/chunks/05aqeykp.w-d1.js"],"ResumeApp"]
-f:I[83851,["/_next/static/chunks/0~n5zktg.kxcp.js","/_next/static/chunks/0dq7v7fbenorf.js","/_next/static/chunks/05aqeykp.w-d1.js"],"JumpToTop"]
-10:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
-11:"$Sreact.suspense"
-14:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
-16:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+0:{"P":null,"c":["","resume",""],"q":"","i":false,"f":[[["",{"children":["resume",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/057h_bjsfj__n.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en-AU","suppressHydrationWarning":true,"className":"plus_jakarta_sans_6ae0703a-module__xEkhoq__variable geist_mono_a74d3720-module__ylhdFq__variable h-full antialiased","children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var known=[\"blue\",\"black\",\"red\",\"green\"];var t=localStorage.getItem(\"theme\");if(known.indexOf(t)===-1){t=\"blue\"}document.documentElement.setAttribute(\"data-theme\",t)}catch(e){document.documentElement.setAttribute(\"data-theme\",\"blue\")}})();"}}],[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var c=window.CSS;var ok=!!(c&&c.supports&&c.supports(\"color\",\"color-mix(in srgb, red, blue)\")&&typeof c.registerProperty===\"function\");if(!ok){document.documentElement.setAttribute(\"data-browser-unsupported\",\"\")}}catch(e){document.documentElement.setAttribute(\"data-browser-unsupported\",\"\")}})();"}}],["$","style",null,{"dangerouslySetInnerHTML":{"__html":"#browser-support-notice{display:none}html[data-browser-unsupported] #browser-support-notice{display:block}"}}]],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Adam Atteia\",\"url\":\"https://adamatteia.com\",\"email\":\"mailto:adam.atteia@gmail.com\",\"jobTitle\":[\"UX Designer\",\"Service Designer\",\"Business Analyst\"],\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Canberra\",\"addressRegion\":\"ACT\",\"addressCountry\":\"AU\"},\"sameAs\":[\"https://www.linkedin.com/in/adamatteia\"]}"}}]]}],["$","body",null,{"className":"min-h-full flex flex-col","children":[["$","div",null,{"id":"browser-support-notice","role":"alert","style":{"boxSizing":"border-box","width":"100%","position":"relative","zIndex":2147483647,"padding":"14px 18px","background":"#1B4FD8","color":"#ffffff","fontFamily":"system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif","fontSize":"15px","lineHeight":1.5,"textAlign":"center"},"children":["$","span",null,{"style":{"display":"block","maxWidth":"52rem","margin":"0 auto"},"children":[["$","strong",null,{"style":{"fontWeight":700},"children":"Your browser is out of date."}]," ","This page needs a more recent browser to display correctly. Please update your device’s software, or open it in the latest Safari, Chrome, Edge, or Firefox."]}]}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L4",null,{"children":[["$","div",null,{"aria-hidden":"true","children":[["$","div",null,{"className":"pointer-events-none fixed inset-x-0 top-0 z-50 h-[15px] bg-frame md:h-[30px]"}],["$","div",null,{"className":"pointer-events-none fixed inset-x-0 bottom-0 z-50 h-[15px] bg-frame md:h-[30px]"}],["$","div",null,{"className":"pointer-events-none fixed inset-y-0 left-0 z-50 w-[15px] bg-frame md:w-[30px]"}],["$","div",null,{"className":"pointer-events-none fixed inset-y-0 right-0 z-50 w-[15px] bg-frame md:w-[30px]"}]]}],["$","main",null,{"className":"flex min-h-screen flex-col items-center justify-center px-6 text-center","children":[["$","p",null,{"className":"section-eyebrow","children":"404: Page not found"}],["$","h1",null,{"className":"mt-4 max-w-[16ch] text-balance text-4xl font-semibold tracking-[-0.02em] sm:text-5xl","children":"This page doesn’t exist."}],["$","p",null,{"className":"mt-4 text-lg leading-relaxed text-muted-foreground","children":"The site is a single page. Everything lives at the front."}],["$","$L5",null,{"href":"/","className":"mt-10 inline-flex items-center gap-2 text-lg font-semibold text-primary transition-opacity hover:opacity-70","children":["Back to adamatteia.com ","$L6"]}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}]]}],{"children":["$L7",{"children":["$L8",{},null,false,null]},null,false,"$@9"]},null,false,null],"$La",false]],"m":"$undefined","G":["$b",["$Lc"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"nlLlGL6r2JiC12yPIWc0p"}
+d:I[24783,["/_next/static/chunks/0~n5zktg.kxcp.js","/_next/static/chunks/0dq7v7fbenorf.js","/_next/static/chunks/15z7lcbj1b0tc.js"],"ScrollProgress"]
+e:I[22635,["/_next/static/chunks/0~n5zktg.kxcp.js","/_next/static/chunks/0dq7v7fbenorf.js","/_next/static/chunks/15z7lcbj1b0tc.js"],"ResumeApp"]
+19:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+1b:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+1c:"$Sreact.suspense"
 6:["$","span",null,{"aria-hidden":"true","children":"→"}]
 7:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
-8:["$","$1","c",{"children":[["$","$L4",null,{"children":[["$","div",null,{"aria-hidden":"true","children":[["$","div",null,{"className":"pointer-events-none fixed inset-x-0 top-0 z-50 h-[15px] bg-frame md:h-[30px]"}],["$","div",null,{"className":"pointer-events-none fixed inset-x-0 bottom-0 z-50 h-[15px] bg-frame md:h-[30px]"}],["$","div",null,{"className":"pointer-events-none fixed inset-y-0 left-0 z-50 w-[15px] bg-frame md:w-[30px]"}],["$","div",null,{"className":"pointer-events-none fixed inset-y-0 right-0 z-50 w-[15px] bg-frame md:w-[30px]"}]]}],["$","$Ld",null,{}],["$","$Le",null,{}],["$","$Lf",null,{}],["$","footer",null,{"aria-label":"Footer","className":"relative z-10 bg-footer-surface px-6 py-10 sm:px-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[78rem]","children":[["$","div",null,{"className":"flex flex-col gap-5 sm:flex-row sm:items-end sm:justify-between sm:gap-8","children":[["$","$L5",null,{"href":"/","aria-label":"Adam Atteia — back to adamatteia.com","className":"whitespace-nowrap text-[clamp(1.25rem,6.15vw,1.75rem)] font-extrabold leading-none tracking-[-0.03em] text-primary transition-colors hover:text-[var(--fg-link-hover)]","children":["Adam Atteia",["$","span",null,{"aria-hidden":"true","children":"."}]]}],["$","nav",null,{"aria-label":"Pages","className":"flex flex-wrap items-center gap-x-4 gap-y-2 font-mono text-xs font-medium uppercase tracking-[0.09em]","children":[["$","span",null,{"aria-hidden":"true","className":"text-muted-foreground","children":"Pages"}],[["$","$1","/design-system",{"children":[false,["$","$L5",null,{"href":"/design-system","className":"text-primary/70 transition-colors hover:text-primary","children":"Design system"}]]}],["$","$1","/resume",{"children":[["$","span",null,{"aria-hidden":"true","className":"text-primary/40","children":"·"}],["$","span",null,{"aria-current":"page","className":"text-primary underline underline-offset-4","children":"Résumé"}]]}],["$","$1","/voice",{"children":[["$","span",null,{"aria-hidden":"true","className":"text-primary/40","children":"·"}],["$","$L5",null,{"href":"/voice","className":"text-primary/70 transition-colors hover:text-primary","children":"Voice & tone"}]]}]]]}]]}],["$","div",null,{"className":"mt-7 flex flex-col gap-2 border-t border-border pt-5 font-mono text-xs uppercase tracking-[0.1em] text-muted-foreground sm:flex-row sm:items-center sm:justify-between","children":[["$","span",null,{"children":"© 2026 · Canberra, Australia"}],["$","span",null,{"children":["Built on Atteia ","1.0"," · Next.js 16 · Tailwind v4"]}]]}]]}]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0~n5zktg.kxcp.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0dq7v7fbenorf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/05aqeykp.w-d1.js","async":true,"nonce":"$undefined"}]],["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}]
-13:[]
-9:"$W13"
-a:["$","$1","h",{"children":[null,["$","$L14",null,{"children":"$L15"}],["$","div",null,{"hidden":true,"children":["$","$L16",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":"$L17"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
-c:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/174~n1h0g1mr2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
-15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#1B4FD8"}]]
-18:I[27201,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
-12:null
-17:[["$","title","0",{"children":"Résumé — Adam Atteia"}],["$","meta","1",{"name":"description","content":"Adam Atteia's résumé — one-page, full, and tailored views, each exportable as an accessible PDF or editable Word document."}],["$","link","2",{"rel":"author","href":"https://adamatteia.com"}],["$","meta","3",{"name":"author","content":"Adam Atteia"}],["$","meta","4",{"name":"robots","content":"noindex, follow"}],["$","link","5",{"rel":"canonical","href":"https://adamatteia.com/resume/"}],["$","meta","6",{"property":"og:title","content":"Adam Atteia, complex programs and lasting change"}],["$","meta","7",{"property":"og:description","content":"UX, service design, and business analysis for complex government and enterprise programs: security, electoral, regulatory, and foreign affairs. Twenty years, Canberra-based."}],["$","meta","8",{"property":"og:url","content":"https://adamatteia.com/"}],["$","meta","9",{"property":"og:site_name","content":"Adam Atteia"}],["$","meta","10",{"property":"og:locale","content":"en_AU"}],["$","meta","11",{"property":"og:image","content":"https://adamatteia.com/opengraph-image?e90568e1e9fac899"}],["$","meta","12",{"property":"og:image:type","content":"image/png"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"630"}],["$","meta","15",{"property":"og:image:alt","content":"Adam Atteia, complex programs and lasting change. Twenty years across UX, service design, and business analysis in government and enterprise. adamatteia.com, Canberra ACT."}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"property":"article:published_time","content":"2026-06-12T00:00:00+10:00"}],["$","meta","18",{"property":"article:author","content":"Adam Atteia"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"Adam Atteia, complex programs and lasting change"}],["$","meta","21",{"name":"twitter:description","content":"UX, service design, and business analysis for complex government and enterprise programs: security, electoral, regulatory, and foreign affairs. Twenty years, Canberra-based."}],["$","meta","22",{"name":"twitter:image","content":"https://adamatteia.com/opengraph-image?e90568e1e9fac899"}],["$","meta","23",{"name":"twitter:image:alt","content":"Adam Atteia, complex programs and lasting change. Twenty years across UX, service design, and business analysis in government and enterprise. adamatteia.com, Canberra ACT."}],["$","meta","24",{"name":"twitter:image:type","content":"image/png"}],["$","meta","25",{"name":"twitter:image:width","content":"1200"}],["$","meta","26",{"name":"twitter:image:height","content":"630"}],["$","link","27",{"rel":"icon","href":"/favicon.ico","sizes":"48x48"}],["$","link","28",{"rel":"icon","href":"/favicon-32x32.png","type":"image/png","sizes":"32x32"}],["$","link","29",{"rel":"icon","href":"/favicon-192x192.png","type":"image/png","sizes":"192x192"}],["$","link","30",{"rel":"icon","href":"/icon-512.png","type":"image/png","sizes":"512x512"}],["$","link","31",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L18","32",{}]]
+f:T4706,# Adam Atteia
+
+**Senior UX/UI Designer** · Canberra, ACT · 0412 824 916 · adam.atteia@gmail.com · adamatteia.com · linkedin.com/in/adamatteia
+**NV1 (active to 2029, CSID CS417799) · NV2 eligible · Available**
+
+Senior UX/UI and Service Designer with 20+ years of experience delivering complex digital transformation projects across Australian Government and enterprise. Specialises in turning ambiguous, high-stakes problems into well-evidenced, accessible, and operationally grounded design solutions.
+
+## Core skills
+
+- **UX research & design:** user research · on-site observation · co-design · wireframing · Double Diamond · usability testing · thematic analysis · affinity mapping · persona development · System Usability Scale · design thinking · analytical thinking · heuristic evaluation
+- **Interaction & content design:** interaction design · visual design · content design · information architecture · data visualisation · coded prototyping · responsive design
+- **Accessibility & design systems:** WCAG 2.2 AA · design system · design system contribution
+- **Agile delivery & leadership:** Agile delivery · SAFe · backlog management · team leadership · stakeholder management · capability development
+- **Tools:** Figma · Sketch · Adobe XD · Miro · Adobe Creative Cloud · InVision · Storybook · React · Next.js · OpenAI
+- **Platforms:** Adobe Experience Manager
+
+## Current self-directed practice
+
+### Front-End Prototyping & Design Systems – self-directed · 2026 – present
+
+*Building government-domain prototypes in React/Next.js and a themeable component library, deployed live with public source – closing the gap between design intent and shipped front-end code.*
+
+- Built interactive front-end prototypes in React and Next.js (React 19, Next.js 15–16, Tailwind CSS), each deployed live to Vercel with a public source repository.
+- Built a reusable Next.js/React scaffold with design tokens pre-applied, so each new prototype starts production-shaped rather than from a blank page.
+- Prototyped complete government-service journeys end to end – a Citizen Services payments eligibility and prepare-to-claim flow, and a mobile-first My Health Record dual-persona (patient and clinician) access interface.
+- Authored a reusable component library (shadcn/ui + Tailwind CSS) with three runtime-switchable Australian Government design-system themes.
+
+## Key engagements
+
+### Senior Service / Experience Design Consultant – Australian Electoral Commission (via Akkodis Recruitment) · Mar 2026 – Jun 2026
+
+*Indigo Program: Envelope Scrutiny Reporting Service (concurrent with Declaration Envelope Management, below)*
+
+Requirements arrived as partially formed user stories with unresolved scope: five report types serving operationally different officer roles across a three-tier hierarchy, with no shared schema to validate against. WCAG 2.2 AA was mandatory across the Figma-designed Reports page and the Word, PDF and CSV report outputs, inside a SAFe delivery cadence.
+
+- Designed a structured Miro swimlane schema, identifying patterns across the full requirement set to organise and validate five operationally distinct report types.
+- Designed the Reports page and navigation pathways in Figma.
+- Treated requirements clarification as a formal pre-design phase, establishing operational intent from ambiguous user stories before any design work commenced.
+- Delivered the Figma designs for the Reports page and navigation pathways as production-ready artefacts.
+
+### Senior Service / Experience Design Consultant – Australian Electoral Commission (via Akkodis Recruitment) · Mar 2025 – Jun 2026
+
+*Indigo Program Modernisation: Declaration Envelope Management*
+
+Sole UX/UI designer across three electoral solutions (Election Envelope Management, Envelope Scrutiny, Ballot Paper Movement), under live-election reliability requirements, audit and traceability constraints on legally significant scrutiny decisions, and mandatory WCAG 2.2 AA compliance through the Attica design system.
+
+- Ran discovery using the Double Diamond and human-centred design within a SAFe agile delivery environment.
+- Developed end-to-end flows across envelope issuance, receipting, scrutiny and ballot paper movement.
+- Engaged experienced legacy users as co-designers, running structured walkthroughs to surface what the current system did well, then progressively sharing prototypes to demonstrate what the new system made possible.
+- Resolved the scrutiny application's two user roles into distinct interfaces from a single design decision: a heads-down, task-focused interface for vote-processing staff who needed the system to narrow choices and reduce cognitive load, and a heads-up, exception-focused interface for supervisors who needed visibility and control across the operation.
+- Designed the declaration-vote scrutiny workflow around established interaction patterns (a progress stepper to set expectations, and progressive disclosure revealing elector search results and expandable voter-history cards step by step) so officers could make accurate determinations under time pressure.
+- Integrated accessibility end-to-end using WCAG 2.2 AA-compliant Attica design system components.
+- Authored new UI components to meet DEM-specific interaction needs not covered by the existing Attica design system library.
+- Built these Attica-extension components in Figma using Auto Layout and Figma's Variants system, producing component variant sets (e.g. a determination radio group spanning full-admit/part-admit/reject and full-admit/reject states as a single variant set) rather than static one-off screens.
+- Version-tracked the Attica-extension components as the shared design system evolved, re-releasing revised component sets to prevent design drift between DEM's extensions and upstream Attica changes.
+- A subset of these DEM-authored components was evaluated by the Attica design lead and incorporated into the core Attica design system for reuse by other Agile Delivery Teams.
+
+### Senior Service / Experience Design Consultant – Australian Electoral Commission (via Akkodis Recruitment) · Nov 2024 – Mar 2025
+
+*Indigo Program Modernisation: Supply Chain Management – Business Readiness*
+
+UX and service discovery for the AEC's supply-chain modernisation, against an end-of-life legacy system (ELMS) and election-readiness time constraints.
+
+- Contributed to framing the engagement as combined service design and business analysis discovery within an agile business-readiness team.
+- Conducted 65 stakeholder consultations across 28 structured sessions spanning national, state, divisional, event-technology and overseas-voting contexts.
+- Synthesised consultation findings into personas for the key supply-chain roles.
+- Produced an essence map, system map and process maps across the supply-chain value stream.
+- Identified 39 pain points and 61 opportunities, consolidated into 11 key findings.
+
+### Experience Design Lead – Publicis Sapient (via The Aquarium Recruitment) · 2024
+
+*Victorian Tertiary Admissions Centre (VTAC): student application portal usability research and redesign*
+
+A time-boxed four-week engagement, remote-only research, Adobe Experience Manager CMS constraints on design implementation, and accessibility requirements for diverse student cohorts.
+
+- Planned and ran moderated online usability sessions, producing the test plan, task scripts, consent form and session notes.
+- Synthesised findings using thematic analysis, affinity mapping, a rainbow sheet and a task-participant matrix.
+- Prioritised navigation and wayfinding improvements over a visual redesign because the research showed task-completion failures stemmed from structural issues rather than aesthetics, pivoting away from the client's initial expectation of a visual refresh on the strength of that evidence.
+- Implemented changes spanning navigation labels, wayfinding, form structure, inline validation and error recovery: addressing over 15 key usability issues, reducing user burden by 25% and increasing form completion rates by 20%.
+
+### Experience Design Lead – Publicis Sapient (via The Aquarium Recruitment) · Feb 2024 – May 2024
+
+*Australian Curriculum, Assessment and Reporting Authority (ACARA): AI-assisted search proof of concept*
+
+A feasibility-only proof of concept that could not process the full curriculum content corpus economically, requiring a curated content subset validated with subject-matter experts.
+
+- Led the AI-assisted search proof of concept for the Australian Curriculum website, grounded in a Year 9 English teacher persona and their curriculum, assessment and lesson-planning scenarios.
+- Designed wireframes and an interactive prototype (responsive across breakpoints so the search workflow held up on any screen size) using Microsoft Copilot's Fluent 2 Web UI Kit in Figma.
+- Assessed the feasibility of integrating the AI-assisted search with ACARA's Adobe Experience Manager content management system.
+- Produced the proof-of-concept findings and recommendations, validating AI-assisted search as a direction for further development.
+
+### Senior UX Design Consultant – Telstra (via Gestion Recruitment) · Jun 2023 – Jan 2024
+
+*Telstra Cloud Sight: B2B multi-cloud management platform*
+
+UX and interaction design for an enterprise multi-cloud platform, under security and compliance requirements, WCAG accessibility compliance, and adherence to Telstra's Able design system while it was in active modernisation.
+
+- Adopted Telstra's Able design system as the basis for consistency, accessibility and scalability across the multi-cloud management platform.
+- Developed the information architecture for multi-cloud resources across procurement, deployment and security functions.
+- Built and documented the product's reusable UI components in Storybook, giving developers a single-source-of-truth component library for the Cloud Sight design system.
+- Designed high-fidelity enterprise UI in Sketch, using Abstract for design version control and Miro for remote collaboration.
+- Conducted accessibility testing aligned to WCAG, refining early components against the Able design system as it was modernised.
+- Designed the cost-visibility dashboard responsively across breakpoints, giving customers service-level cost visibility across their cloud environments at a glance.
+- Delivered an accessible, brand-aligned UX for a multi-cloud management platform serving enterprise IT users.
+
+### Senior Consultant, Experience Design – Avanade Australia · 2022
+
+*Therapeutic Goods Administration: Medical Case Management System (Phase 1)*
+
+UX research and prototype delivery for a regulatory medical case-management system, where outdated applications caused repetitive tasks, review delays and error risk affecting patient safety, under WCAG accessibility requirements and Digital Service Standard alignment.
+
+- Organised and facilitated in-depth user research sessions with case officers, scientific reviewers and managers.
+- Authored user stories in Azure DevOps, each with a described user, desired outcome and acceptance criteria, organising and prioritising user needs for delivery.
+- Conducted two rounds of concept testing with users and client stakeholders to validate audience wireflows and design concepts, each round directly informing the next stage of UI design.
+- Ran card-sorting studies in Optimal Workshop to shape the information architecture, alongside sitemaps and IA diagrams in Miro.
+- Produced low- and high-fidelity prototypes and screen visual design using the Australian Government Health Design System.
+- Contributed authentication components to the Australian Government Health Design System, extending it for use in TGA dashboards and applications rather than only consuming it.
+- Phase 1 prototypes were accepted at handover with full stakeholder buy-in.
+
+### Senior Consultant, Experience Design – Avanade Australia · Nov 2021 – 2022
+
+*Department of Employment and Workplace Relations / NCVER: VET Data Streamlining, Discovery 2*
+
+Sector-wide research under cross-jurisdictional data standards, interoperability constraints across systems, and government data-governance expectations.
+
+- Contributed to framing Discovery 2 to build on Discovery 1 findings, deepening understanding of identified challenges and surfacing gaps and complexities in the program.
+- Conducted 48 in-depth stakeholder interviews (60–120 minutes) across the VET sector, using a semi-structured guide co-developed with the department, state and territory training authorities, and NCVER.
+- Led a four-person research team (two business analysts and a research assistant) as Research Lead for Discovery 2, owning delivery of the research project to the client's requirements.
+- Facilitated three stakeholder-mapping workshops on LUMA Institute processes with the department, industry bodies, VET data-management professionals and providers.
+- The research provided the department with a deeper understanding of stakeholder needs and challenges to inform program development and implementation.
+
+*Further Avanade engagements, 2021 – 2022: the Bupa Intermediary Portal, the ANZ Procurement Category Management Playbook, and the Portal Application System for the Department of Agriculture, Water and the Environment – detail available on request.*
+
+### Senior Consultant, Experience Design – Avanade Australia · 2020 – 2021
+
+*Department of Agriculture, Water and the Environment: border-biosecurity mobile application*
+
+Mobile UX for real-time biosecurity inspection at Australian airports, under offline and low-connectivity constraints, government security and privacy requirements, and Digital Service Standard and accessibility alignment.
+
+- Conducted field research and stakeholder interviews with biosecurity officers across their distinct operational roles: rovers, K9 handlers, marshals, quarantine officers, border investigators and technical specialists.
+- Designed mobile-first interaction patterns and decision-support UI, iterating through prototyping and usability testing with officers.
+- Led a three-person UX team, with two designers as direct reports, across three-week sprints.
+- Produced the interaction and UI design in Sketch, converting the working files to Adobe XD for stakeholder socialisation and sign-off.
+- Conducted a design QA review comparing the signed-off Adobe XD prototypes against the delivered Microsoft Power Apps build, severity-ranking UI defects covering tap-target sizing, colour accessibility, spacing and missing fields.
+- Delivered 30% faster access to information for biosecurity officers through the app's decision-support and information design.
+
+### Senior Consultant, Experience Design – Avanade Australia · 2019
+
+*Department of Defence: Military Account Management System redesign*
+
+UX design and coded prototyping for a legacy military account system, with key stakeholders deeply resistant to modernisation, institutional knowledge embedded in paper-based workarounds, Defence security and access controls, and WCAG 2.0 compliance.
+
+- Made the interactive prototype the centrepiece of the engagement rather than presenting a future state and asking stakeholders to trust it.
+- Built a developer-ready HTML, CSS and JavaScript interactive prototype for Phase 1 handover to the build team.
+- Tested the prototype with 15 real users across three rounds of five, running individual facilitated think-aloud sessions with System Usability Scale scoring after each session.
+- The APS6 stakeholder who actively did not want the project to proceed became an active contributor to the usability testing process by the end of round one.
+- Improved task completion by 25% and cut average task time by 17%.
+
+*Also at Avanade: the Internal Operations Management transformation at the Department of Foreign Affairs and Trade (2018 – 2021) and the Telstra Humanoid AI (Pepper) Innovation Workshops (2017) – detail available on request.*
+
+### Senior Consultant, Experience Design – Avanade Australia · Sep 2017 – Aug 2018
+
+*My ActewAGL: digital self-service platform redesign*
+
+UX research, co-design and design-system authorship across a utility self-service portal redesign and its 2018 extension, in a low-UX-maturity organisation with long-tenured technical staff resistant to the change.
+
+- Designed a structured sprint-based co-design workshop sequence in which stakeholders made the artefacts themselves, creating ownership and progressively building the organisation's UX maturity.
+- Reframed the design problem from portal aesthetics to completion confidence after journey mapping revealed contact-centre calls clustered around confirmation-seeking behaviour, not task failure.
+- Conducted user research (interviews, surveys, usability testing) with residential and business energy customers.
+- Led UX design as the sole designer across eight concurrent Digital Task Force workstreams over a seven-week sprint cycle, each run through competitive analysis, task-flow design, wireframing, prototyping, user testing and developer hand-off.
+- Authored the ActewAGL Digital Basics Style Guide: a UI terminology glossary and WCAG 2.0 AA-aligned interaction-pattern acceptance criteria, used as the project's design-system reference by the front-end development team.
+- Interviewed and helped select a front-end UI developer for the delivery team, assessing technical fit against the project's Bootstrap, Sketch and InVision stack and WCAG 2.0 AA experience.
+- 48% reduction in customer service calls.
+
+*Earlier engagements (2009 – 2017) available on request, including the Atlas of Living Australia flagship-website UX review and redesign (DXC Technology, 2015 – 2017) and Australian Government design and delivery roles (Shared Services Centre, EL1; Australian National University).*
+
+## Credentials
+
+- Nielsen Norman Group (NN/g) UX Certification, 2017.
+- Google UX Design Professional Certificate, 2025.
+- Design Thinking Fundamentals, LUMA Institute, 2018.
+- Bachelor of Graphic Design, University of Canberra.
+- Bachelor of Interactive Multimedia and New Media, University of Canberra.
+10:T49d2,# Adam Atteia
+
+**Senior Service Designer** · Canberra, ACT · 0412 824 916 · adam.atteia@gmail.com · adamatteia.com · linkedin.com/in/adamatteia
+**NV1 (active to 2029, CSID CS417799) · NV2 eligible · Available**
+
+Senior service and UX designer with 20+ years delivering complex digital transformation across Australian Government and enterprise. Specialises in end-to-end service design for complex, high-stakes government systems: current-state analysis, co-design with operational staff, journey mapping and service blueprinting, and front-loaded specification that resolves logic and data rules before build.
+
+## Core skills
+
+- **Service design & co-design:** co-design · design thinking · end-to-end process mapping · change management · Miro · system mapping · value stream mapping · journey mapping · future-state design
+- **Service & information design:** service design · business analysis · information architecture · workshop facilitation · stakeholder management · iterative validation · technical documentation
+- **Service design research:** user research · persona development · usability testing · thematic analysis · analytical thinking · gap analysis · options analysis
+
+## Key engagements
+
+### Senior Service / Experience Design Consultant – Australian Electoral Commission (via Akkodis Recruitment) · Mar 2026 – Jun 2026
+
+*Indigo Program: Envelope Scrutiny Reporting Service (concurrent with Declaration Envelope Management, below)*
+
+Requirements arrived as partially formed user stories with unresolved scope: five report types serving operationally different officer roles across a three-tier hierarchy, with no shared schema to organise or validate requirements against. WCAG 2.2 AA was a mandatory non-functional requirement across the Reports page and the Word, PDF and CSV report outputs, inside a SAFe delivery cadence.
+
+- Front-loaded the service design phase to fully resolve report logic, structure and data rules before high-fidelity design, reducing dependency on UI design to access the reporting service.
+- Co-facilitated requirements clarification workshops with business stakeholders alongside the principal business analyst to resolve data rules and confirm report scope.
+- Designed a structured Miro swimlane schema, identifying patterns across the full requirement set to organise and validate five operationally distinct report types.
+- Established iterative validation gates with the product owner and business analyst between specification and high-fidelity design.
+- Designed the Reports page and navigation pathways in Figma.
+- Five operationally distinct report specifications were produced and validated with the product owner and business analyst prior to high-fidelity design.
+
+### Senior Service / Experience Design Consultant – Australian Electoral Commission (via Akkodis Recruitment) · Mar 2025 – Jun 2026
+
+*Indigo Program Modernisation: Declaration Envelope Management*
+
+Sole UX/UI designer across three linked electoral solutions (Election Envelope Management, Envelope Scrutiny, Ballot Paper Movement), modernising 1980s-era declaration-vote systems under live-election reliability requirements, security and confidentiality of electoral data, and a significant change-management challenge: experienced legacy users resistant to modernisation.
+
+- Anchored every design decision in preliminary scrutiny to enfranchisement: giving officers the best possible chance of finding a voter on the roll, even with incomplete or inconsistent envelopes.
+- Ran discovery using the Double Diamond and human-centred design within a SAFe agile delivery environment.
+- Developed end-to-end flows across envelope issuance, receipting, scrutiny and ballot paper movement.
+- Engaged experienced legacy users as co-designers, running structured walkthroughs to surface what the current system did well, then progressively sharing prototypes to demonstrate what the new system made possible.
+- Reconciled competing national and state operational practices into a unified requirements picture.
+- Contributed to the decision engine underpinning Envelope Scrutiny's three legally distinct outcomes (full admit, part admit, rejected), deriving outcomes from eligibility checks while maintaining a full audit trail without opening the envelope.
+- Converted Miro service design outputs into high-fidelity UX/UI and visual design deliverables.
+- Integrated accessibility end-to-end using WCAG 2.2 AA-compliant Attica design system components.
+
+### Senior Service / Experience Design Consultant – Australian Electoral Commission (via Akkodis Recruitment) · Nov 2024 – Mar 2025
+
+*Indigo Program Modernisation: Supply Chain Management – Business Readiness*
+
+End-to-end service design discovery across the election-logistics supply chain, against an end-of-life legacy system (ELMS), manual spreadsheets and fragmented tracking, and election-readiness time constraints, with WCAG 2.2 AA carried into the capability definition as a mandatory non-functional requirement.
+
+- Contributed to framing the engagement as combined service design and business analysis discovery within an agile business-readiness team.
+- Conducted 65 stakeholder consultations across 28 structured sessions spanning national, state, divisional, event-technology and overseas-voting contexts.
+- Produced an essence map, system map and process maps across the supply-chain value stream.
+- Contributed to producing pathway decision inputs, including a prioritised capability set, constraints and comparative analysis for the commercial off-the-shelf (COTS) versus custom decision.
+- Identified 39 pain points and 61 opportunities, consolidated into 11 key findings.
+- Synthesised discovery findings into a strategic presentation deck that framed program investment decisions, including the COTS-versus-custom pathway assessment.
+
+### Lead Experience Designer – Publicis Sapient (via The Aquarium Recruitment) · 2024
+
+*Victorian Tertiary Admissions Centre (VTAC): student application portal service redesign*
+
+Service redesign of the VTAC student application journey in a time-boxed four-week engagement: UX had been excluded from the original proposal, requiring late onboarding in a politically sensitive environment, with accessibility requirements for diverse student cohorts and Adobe Experience Manager CMS constraints.
+
+- Planned and ran moderated online usability sessions, producing the test plan, task scripts, consent form and session notes.
+- Synthesised findings using thematic analysis, affinity mapping, a rainbow sheet and a task-participant matrix.
+- Prioritised navigation and wayfinding improvements over a visual redesign because the research showed task-completion failures stemmed from structural issues rather than aesthetics, pivoting away from the client's initial expectation of a visual refresh on the strength of that evidence.
+- Synthesised research findings into a discovery deck and findings-to-next-steps document that shaped the subsequent design and delivery phase, translating usability evidence into a prioritised action framework.
+- Implemented changes spanning navigation labels, wayfinding, form structure, inline validation and error recovery: addressing over 15 key usability issues, reducing user burden by 25% and increasing form completion rates by 20%.
+
+### Lead Experience Designer – Publicis Sapient (via The Aquarium Recruitment) · 2024
+
+*Department of Employment and Workplace Relations (DEWR): digital pre-delivery operating model*
+
+Service design and change management for DEWR's digital-product pre-delivery pipeline: the growing volume and diversifying methods of digital product production had outpaced the department's existing pre-delivery governance, creating delivery-timeframe and quality challenges.
+
+- Liaised with senior DEWR stakeholders and observed the department's pre-delivery digital service production processes.
+- Identified the departmental challenges driving DEWR's digital-product delivery-timeframe and quality issues.
+- Explored potential solutions to the identified pre-delivery challenges as part of a multidisciplinary solution team.
+- Decided to restructure DEWR's internal business delivery model around a new pre-delivery operating-model framework, with tiered reporting structures and clearly defined roles and responsibilities, to provide stability and guidance for future digital product delivery.
+- Delivered the new pre-delivery governance structure for DEWR, designed and ready for implementation.
+
+*Further Publicis Sapient engagement, 2024: the ACARA AI-assisted search proof of concept – detail available on request. At Telstra (via Gestion Recruitment), Jun 2023 – Jan 2024: Telstra Cloud Sight, a B2B multi-cloud management platform, with service design run as a workstream parallel to the UX design work – detail available on request.*
+
+### Senior Consultant, Experience Design – Avanade Australia · 2022
+
+*Therapeutic Goods Administration: Medical Case Management System (Phase 1)*
+
+Service design for a regulatory medical case-management redesign, where outdated applications caused repetitive tasks, review delays and error risk affecting patient safety, under regulatory and data-security constraints, WCAG accessibility requirements and Digital Service Standard alignment.
+
+- Collaborated with the senior service designer on current-state journey mapping across intake, assessment and decision stages.
+- Ran empathy mapping across the stakeholder interviews (individual and aggregated maps built in Miro, synthesised in Excel) to ground personas and journey maps in observed needs.
+- Authored the first and final drafts of the TGA current- and future-state service design blueprint, including a gap assessment of existing future-state documentation.
+- Conducted two rounds of concept testing with users and client stakeholders to validate audience wireflows and design concepts, each round directly informing the next stage of UI design.
+- Integrated policy requirements into the service flows.
+- Embedded a UI inventory, UI style guide and interaction-design-pattern documentation in the service blueprint, tying interface consistency to the end-to-end service design.
+- Phase 1 prototypes were accepted at handover with full stakeholder buy-in.
+
+### Senior Consultant, Experience Design – Avanade Australia · Nov 2021 – 2022
+
+*Department of Employment and Workplace Relations / NCVER: VET Data Streamlining, Discovery 2*
+
+Sector-level service design discovery across the VET data ecosystem, under cross-jurisdictional data standards, interoperability constraints across systems, and government data-governance expectations.
+
+- Contributed to framing Discovery 2 to build on Discovery 1 findings, deepening understanding of identified challenges and surfacing gaps and complexities in the program.
+- Conducted 48 in-depth stakeholder interviews (60 to 120 minutes) across the VET sector, using a semi-structured guide co-developed with the department, state and territory training authorities, and NCVER.
+- Led a four-person research team (two business analysts and a research assistant) as Research Lead for Discovery 2, owning delivery of the research project to the client's requirements.
+- Facilitated three stakeholder-mapping workshops on LUMA Institute processes with the department, industry bodies, VET data-management professionals and providers.
+- Contributed to high-level ecosystem and process mapping of data-collection and reporting journeys at sector level, identifying cross-organisation touchpoints and opportunity areas for future-state VET Data Streamlining services.
+- Translated the research synthesis into three problem statements (inconsistent data formats and collection processes, the data-management burden on providers, and limited stakeholder access to data), socialised beyond the department through presentations and workshops.
+
+*Further Avanade engagements, 2021 – 2022: the ANZ Procurement Category Management Playbook and the referral-lodgement service redesign for the Department of Agriculture, Water and the Environment's Portal Application System – detail available on request.*
+
+### Senior Consultant, Experience Design – Avanade Australia · 2020 – 2021
+
+*Department of Agriculture, Water and the Environment: border-biosecurity inspection service*
+
+Service design for a border-biosecurity inspection service digitising real-time checks at Australian airports: paper-based, uniform screening did not differentiate traveller risk in real time, and delivery ran through a capped-budget, multi-vendor Agile programme under formal governance, offline/low-connectivity support requirements and government security and privacy constraints.
+
+- Conducted field research and stakeholder interviews with biosecurity officers across their distinct operational roles: rovers, K9 handlers, marshals, quarantine officers, border investigators and technical specialists.
+- Spearheaded co-design sessions with product owners and subject-matter experts to surface officer needs and pain points.
+- Defined requirements for real-time data capture, non-compliance guidance and decision-support tools.
+- Conducted a design QA review comparing the signed-off Adobe XD prototypes against the delivered Microsoft Power Apps build, severity-ranking UI defects covering tap-target sizing, colour accessibility, spacing and missing fields.
+- Authored a global UI assets template and a wireframe pattern template, built specifically for the Department to draw on after Avanade's departure, giving DAWE a reusable foundation to keep future UI work consistent without ongoing design support.
+- Delivered 30% faster access to information for biosecurity officers through the app's decision-support and information design.
+
+### Senior Consultant, Experience Design – Avanade Australia · 2019
+
+*Department of Defence: Military Account Management System redesign*
+
+Service design for a legacy Defence account-management modernisation framed as a change-management problem: a 15+ year-old system, institutional knowledge embedded in paper-based workarounds, key stakeholders deeply resistant to modernisation, and WCAG 2.0 compliance.
+
+- Made the interactive prototype the centrepiece of the engagement rather than presenting a future state and asking stakeholders to trust it.
+- Mapped the existing system's workflows, including the paper-based workarounds the legacy system could not handle natively, into a live interactive prototype.
+- Deliberately solved the paper-based workarounds to validate the primary system owner's expertise rather than threaten it, demonstrating the team understood the system deeply and was carrying forward what mattered.
+- Produced service journey maps and a service blueprint aligning interface states with back-office processes and support channels.
+- The APS6 stakeholder who actively did not want the project to proceed became an active contributor to the usability testing process by the end of round one, and was helping refine the prototype by the final round.
+- Cut average task time by 17% and reduced help-desk contacts by 15%.
+
+### Senior Consultant, Experience Design – Avanade Australia · Apr 2018 – Apr 2021
+
+*Department of Foreign Affairs and Trade: Internal Operations Management transformation (delivered in release phases spaced across this span, concurrent with the Avanade engagements above)*
+
+Service design across a three-year internal-operations transformation spanning domestic and overseas posts: a siloed operations-management system with no clear task tracking or outcome visibility for case officers, limited cross-section collaboration, and mandatory WCAG 2.0 AA compliance consistent with whole-of-government Digital Service Standard requirements.
+
+- Conducted stakeholder and user interviews and workflow analysis to define design direction across multiple release phases.
+- Facilitated design thinking workshops with stakeholders to surface process understanding and align on priorities.
+- Synthesised stakeholder and user research into personas, empathy maps and user journey maps to ground design decisions across the release phases.
+- Delivered process improvement across case officer workflows by resolving interaction patterns that had created task duplication and limited cross-section visibility.
+- Delivered case-management dashboards providing managers with consolidated visibility of case officer outputs and cross-section performance for the first time.
+
+### Senior Consultant, Experience Design – Avanade Australia · Sep 2017 – Aug 2018
+
+*My ActewAGL: digital self-service platform transformation*
+
+End-to-end service design for a utility self-service transformation in a low-UX-maturity organisation requiring progressive capability uplift alongside delivery, with long-tenured technical staff resistant to the change, and Digital Service Standard and accessibility expectations.
+
+- Produced end-to-end customer journey maps and a service blueprint in Visio across billing, self-service, move-in/move-out and omni-channel touchpoints (portal, call centre, email).
+- Reframed the design problem from portal aesthetics to completion confidence after journey mapping revealed contact-centre calls clustered around confirmation-seeking behaviour, not task failure.
+- Designed a structured sprint-based co-design workshop sequence in which stakeholders made the artefacts themselves, creating ownership and progressively building the organisation's UX maturity.
+- Facilitated a Business Focus Workshop using storyboarding, a Rose/Thorn/Bud retrospective and affinity clustering to surface, cluster and prioritise a new backlog of service opportunities.
+- Synthesised usability testing findings into a research report that drove scope decisions: low-priority features were descoped and development effort reallocated to higher-impact improvements, including the completion-confidence patterns behind the measurable call reductions.
+- 48% reduction in customer service calls.
+- 40% improvement in move-in/move-out management.
+
+*Also at Avanade: the Telstra Humanoid AI (Pepper) service-concept co-design workshops (2017) – detail available on request. Earlier engagements (2009 – 2017) available on request, including the Atlas of Living Australia service redesign and its 37-stakeholder Human-Centred Design workshop (DXC Technology, 2015 – 2017) and Australian Government design and delivery roles (Shared Services Centre, EL1; Australian National University).*
+
+## Credentials
+
+- Nielsen Norman Group (NN/g) UX Certification, 2017.
+- LUMA Institute Certified Practitioner of Human-Centered Design, 2018.
+- Design Thinking Fundamentals, LUMA Institute, 2018.
+- Google UX Design Professional Certificate, 2025.
+- Bachelor of Graphic Design, University of Canberra.
+- Bachelor of Interactive Multimedia and New Media, University of Canberra.
+11:T2a95,# Adam Atteia
+
+**Business Analyst** · Canberra, ACT · 0412 824 916 · adam.atteia@gmail.com · adamatteia.com · linkedin.com/in/adamatteia
+**NV1 (active to 2029, CSID CS417799) · NV2 eligible · Available**
+
+Business analyst and service designer with 20+ years across Australian Government and enterprise. Strong in requirements elicitation and clarification, business- and data-rule definition, current-state analysis, stakeholder facilitation, and Agile and SAFe delivery. Turns ambiguous, partially formed requirements into validated, decision-ready specifications with full traceability, resolving logic and data rules before build to reduce rework and de-risk delivery.
+
+## Core skills
+
+- **Business analysis & requirements management:** requirements elicitation · stakeholder consultation · surveys and questionnaires · business rules · non-functional requirements · acceptance criteria · audit and traceability · current-state analysis
+- **Process & service analysis:** end-to-end process mapping · future-state design · change management · workshop facilitation
+- **Options & capability analysis:** options analysis · capability mapping · analytical thinking
+- **Stakeholder engagement & influence:** stakeholder management · influencing · conflict resolution
+- **Agile delivery:** Agile delivery · SAFe · backlog management
+- **Delivery tooling:** Jira · Azure DevOps · Visio · GitHub Copilot
+
+## Key engagements
+
+### Senior Service / Experience Design Consultant – Australian Electoral Commission (via Akkodis Recruitment) · Mar 2026 – Jun 2026
+
+*Indigo Program: Envelope Scrutiny Reporting Service (a concurrent workstream with Declaration Envelope Management, below, within the same engagement)*
+
+Requirements arrived as partially formed user stories with unresolved scope: five report types serving operationally different officer roles across a three-tier hierarchy (National, State, Division), with no shared schema to validate against, inside a SAFe delivery cadence.
+
+- Treated requirements clarification as a formal pre-design phase, establishing operational intent from ambiguous user stories before any design work commenced.
+- Co-facilitated requirements clarification workshops with business stakeholders alongside the principal business analyst to resolve data rules and confirm report scope.
+- Produced Word-template-to-PDF report specifications and CSV output definitions defining the reporting outputs.
+- Five operationally distinct report specifications were produced and validated with the product owner and business analyst before high-fidelity design began.
+- Carried WCAG 2.2 AA accessibility compliance as a mandatory non-functional requirement across the report designs and output formats.
+
+### Senior Service / Experience Design Consultant – Australian Electoral Commission (via Akkodis Recruitment) · Mar 2025 – Jun 2026
+
+*Indigo Program Modernisation: Declaration Envelope Management*
+
+Requirements definition across three electoral solutions (Election Envelope Management, Envelope Scrutiny, Ballot Paper Movement), under live-election reliability requirements and audit and traceability constraints on legally significant scrutiny decisions.
+
+- Ran discovery using the Double Diamond and human-centred design within a SAFe agile delivery environment.
+- Performed current-state analysis of legacy and transition systems (ELMS, RMANS, OPVA MS) to ground requirements in system reality.
+- Anchored every business rule governing preliminary scrutiny to enfranchisement: giving officers the best possible chance of finding a voter on the roll, even with incomplete or inconsistent envelopes.
+- Reconciled competing national and state operational practices into a unified requirements picture.
+- Contributed to the business rules for a decision engine supporting three legally distinct scrutiny outcomes (full admit, part admit, rejected), derived from eligibility checks with a full audit trail maintained without opening the envelope.
+- Maintained a prioritised backlog with sprint sequencing rationale, determining sprint-critical versus deferrable scope, with each prioritisation approved by the product owner.
+
+### Senior Service / Experience Design Consultant – Australian Electoral Commission (via Akkodis Recruitment) · Nov 2024 – Mar 2025
+
+*Indigo Program Modernisation: Supply Chain Management – Business Readiness*
+
+Business analysis discovery for the AEC's supply-chain modernisation, against an end-of-life legacy system (ELMS) and election-readiness time constraints.
+
+- Contributed to framing the engagement as combined service design and business analysis discovery within an agile business-readiness team.
+- Conducted 65 stakeholder consultations across 28 structured sessions spanning national, state, divisional, event-technology and overseas-voting contexts.
+- Synthesised consultation findings into personas for the key supply-chain roles.
+- Produced an essence map, system map and process maps across the supply-chain value stream (Master Data, Demand Planning, Inventory, Procurement, Warehousing, Distribution, Returns).
+- Identified 39 pain points and 61 opportunities, consolidated into 11 key findings.
+- Contributed Business Case inputs (a prioritised capability set, constraints and comparative analysis) to inform the commercial off-the-shelf (COTS) versus custom investment decision.
+
+*2022 – 2024: further senior UX and service-design engagements (Avanade Australia, Telstra Enterprise, Publicis Sapient) – detail available on request.*
+
+### Senior Consultant, Experience Design – Avanade Australia · 2022
+
+*Therapeutic Goods Administration: Medical Case Management System (Phase 1)*
+
+Business analysis for a regulatory medical case-management system, where outdated applications caused repetitive tasks, review delays and error risk affecting patient safety, under regulatory-compliance constraints and Digital Service Standard alignment.
+
+- Organised and facilitated in-depth user research sessions with case officers, scientific reviewers and managers.
+- Authored the first and final drafts of the current- and future-state service design blueprint, including a gap assessment of existing future-state documentation.
+- Authored user stories in Azure DevOps, each with a described user, desired outcome and acceptance criteria, organising and prioritising user needs for delivery.
+- Framed the research synthesis as problem and hypothesis statements and value propositions, articulating the new system's benefits to users and stakeholders.
+- Phase 1 prototypes were accepted at handover with full stakeholder buy-in.
+- Prototypes indicated a potential 20% reduction in case-processing times.
+
+### Senior Consultant, Experience Design – Avanade Australia · Apr 2018 – Apr 2021
+
+*Department of Foreign Affairs and Trade: Internal Operations Management transformation*
+
+Workflow analysis, process improvement and stakeholder facilitation across a multi-phase transformation with evolving scope.
+
+- Conducted stakeholder and user interviews and workflow analysis to define direction across multiple release phases.
+- Facilitated design thinking workshops with stakeholders to surface process understanding and align on priorities.
+- Streamlined case-officer workflows by resolving interaction patterns that had created task duplication and limited cross-section visibility.
+
+### Senior Consultant, Experience Design – Avanade Australia · 2020 – 2021
+
+*Department of Agriculture, Water and the Environment: border-biosecurity mobile application*
+
+Requirements definition and Agile delivery for a mobile application digitising real-time biosecurity inspection, under offline and low-connectivity constraints and Digital Service Standard alignment.
+
+- Defined requirements for real-time data capture, non-compliance guidance and decision-support tools.
+- Conducted field research and stakeholder interviews with biosecurity officers across their distinct operational roles: rovers, K9 handlers, marshals, quarantine officers, border investigators and technical specialists.
+- Led sprint backlog prioritisation for a three-person UX team across the full engagement, with each sprint's sequencing rationale agreed by the product owner.
+
+### Senior Consultant, Experience Design – Avanade Australia · 2019
+
+*Department of Defence: Military Account Management System redesign*
+
+Current-state process analysis and change management for a legacy military account system, with key stakeholders deeply resistant to modernisation and institutional knowledge embedded in paper-based workarounds.
+
+- Mapped the legacy system's workflows, including the paper-based workarounds it could not handle natively, into a live interactive prototype.
+- Deliberately solved the paper-based workarounds to validate the primary system owner's expertise rather than threaten it.
+- The APS6 stakeholder who actively did not want the project to proceed became an active contributor to usability testing by the end of round one.
+- Tested the prototype across 15 real users in three iterative rounds, using System Usability Scale scores to measure and guide refinement.
+
+### Senior Consultant, Experience Design – Avanade Australia · Sep 2017 – Aug 2018
+
+*My ActewAGL: digital self-service platform redesign*
+
+Requirements elicitation and stakeholder facilitation across a utility self-service portal redesign and its 2018 extension, with long-tenured technical staff resistant to the change.
+
+- Ran a features workshop where stakeholders wrote and voted features onto a wall and placed them in a priority-versus-importance matrix.
+- Conducted user research (interviews, surveys, usability testing) with residential and business energy customers.
+- Reframed the design problem from portal aesthetics to completion confidence after journey mapping revealed contact-centre calls clustered around confirmation-seeking behaviour, not task failure.
+- Authored the ActewAGL Digital Basics Style Guide: a UI terminology glossary and WCAG 2.0 AA-aligned interaction-pattern acceptance criteria, used as the project's design-system reference by the front-end development team.
+- Long-tenured technical staff who had been the most resistant to UX methodology became active contributors and advocates for the final solution.
+
+*Earlier engagements (pre-2017) available on request: public- and private-sector design and delivery roles.*
+
+## Credentials
+
+- IIBA Certification of Capability in Business Analysis (CCBA): application in progress (opened July 2026); BABOK-based; exam targeted Q4 2026.
+- Member, International Institute of Business Analysis (IIBA Australia, Canberra Chapter).
+- Business Process Modelling with BPMN 2.0, IRM Training (IIBA Endorsed Education Provider): enrolled, runs July 2026.
+- Power Platform Fundamentals (PL-900), Microsoft, 2021.
+- Design Thinking Fundamentals, LUMA Institute, 2018.
+8:["$","$1","c",{"children":[["$","$L4",null,{"children":[["$","div",null,{"aria-hidden":"true","children":[["$","div",null,{"className":"pointer-events-none fixed inset-x-0 top-0 z-50 h-[15px] bg-frame md:h-[30px]"}],["$","div",null,{"className":"pointer-events-none fixed inset-x-0 bottom-0 z-50 h-[15px] bg-frame md:h-[30px]"}],["$","div",null,{"className":"pointer-events-none fixed inset-y-0 left-0 z-50 w-[15px] bg-frame md:w-[30px]"}],["$","div",null,{"className":"pointer-events-none fixed inset-y-0 right-0 z-50 w-[15px] bg-frame md:w-[30px]"}]]}],["$","$Ld",null,{}],["$","$Le",null,{"masters":{"ux":"$f","sd":"$10","ba":"$11"}}],"$L12","$L13"]}],["$L14","$L15","$L16"],"$L17"]}]
+18:[]
+9:"$W18"
+a:["$","$1","h",{"children":[null,["$","$L19",null,{"children":"$L1a"}],["$","div",null,{"hidden":true,"children":["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.Metadata","children":"$L1d"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+c:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/057h_bjsfj__n.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1e:I[83851,["/_next/static/chunks/0~n5zktg.kxcp.js","/_next/static/chunks/0dq7v7fbenorf.js","/_next/static/chunks/15z7lcbj1b0tc.js"],"JumpToTop"]
+1f:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+12:["$","$L1e",null,{}]
+13:["$","footer",null,{"aria-label":"Footer","className":"relative z-10 bg-footer-surface px-6 py-10 sm:px-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[78rem]","children":[["$","div",null,{"className":"flex flex-col gap-5 sm:flex-row sm:items-end sm:justify-between sm:gap-8","children":[["$","$L5",null,{"href":"/","aria-label":"Adam Atteia — back to adamatteia.com","className":"whitespace-nowrap text-[clamp(1.25rem,6.15vw,1.75rem)] font-extrabold leading-none tracking-[-0.03em] text-primary transition-colors hover:text-[var(--fg-link-hover)]","children":["Adam Atteia",["$","span",null,{"aria-hidden":"true","children":"."}]]}],["$","nav",null,{"aria-label":"Pages","className":"flex flex-wrap items-center gap-x-4 gap-y-2 font-mono text-xs font-medium uppercase tracking-[0.09em]","children":[["$","span",null,{"aria-hidden":"true","className":"text-muted-foreground","children":"Pages"}],[["$","$1","/design-system",{"children":[false,["$","$L5",null,{"href":"/design-system","className":"text-primary/70 transition-colors hover:text-primary","children":"Design system"}]]}],["$","$1","/resume",{"children":[["$","span",null,{"aria-hidden":"true","className":"text-primary/40","children":"·"}],["$","span",null,{"aria-current":"page","className":"text-primary underline underline-offset-4","children":"Résumé"}]]}],["$","$1","/voice",{"children":[["$","span",null,{"aria-hidden":"true","className":"text-primary/40","children":"·"}],["$","$L5",null,{"href":"/voice","className":"text-primary/70 transition-colors hover:text-primary","children":"Voice & tone"}]]}]]]}]]}],["$","div",null,{"className":"mt-7 flex flex-col gap-2 border-t border-border pt-5 font-mono text-xs uppercase tracking-[0.1em] text-muted-foreground sm:flex-row sm:items-center sm:justify-between","children":[["$","span",null,{"children":"© 2026 · Canberra, Australia"}],["$","span",null,{"children":["Built on Atteia ","1.0"," · Next.js 16 · Tailwind v4"]}]]}]]}]}]
+14:["$","script","script-0",{"src":"/_next/static/chunks/0~n5zktg.kxcp.js","async":true,"nonce":"$undefined"}]
+15:["$","script","script-1",{"src":"/_next/static/chunks/0dq7v7fbenorf.js","async":true,"nonce":"$undefined"}]
+16:["$","script","script-2",{"src":"/_next/static/chunks/15z7lcbj1b0tc.js","async":true,"nonce":"$undefined"}]
+17:["$","$L1f",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
+1a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#1B4FD8"}]]
+21:I[27201,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+1d:[["$","title","0",{"children":"Résumé — Adam Atteia"}],["$","meta","1",{"name":"description","content":"Adam Atteia's résumé — one-page, full, and tailored views, each exportable as an accessible PDF or editable Word document."}],["$","link","2",{"rel":"author","href":"https://adamatteia.com"}],["$","meta","3",{"name":"author","content":"Adam Atteia"}],["$","meta","4",{"name":"robots","content":"noindex, follow"}],["$","link","5",{"rel":"canonical","href":"https://adamatteia.com/resume/"}],["$","meta","6",{"property":"og:title","content":"Adam Atteia, complex programs and lasting change"}],["$","meta","7",{"property":"og:description","content":"UX, service design, and business analysis for complex government and enterprise programs: security, electoral, regulatory, and foreign affairs. Twenty years, Canberra-based."}],["$","meta","8",{"property":"og:url","content":"https://adamatteia.com/"}],["$","meta","9",{"property":"og:site_name","content":"Adam Atteia"}],["$","meta","10",{"property":"og:locale","content":"en_AU"}],["$","meta","11",{"property":"og:image","content":"https://adamatteia.com/opengraph-image?e90568e1e9fac899"}],["$","meta","12",{"property":"og:image:type","content":"image/png"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"630"}],["$","meta","15",{"property":"og:image:alt","content":"Adam Atteia, complex programs and lasting change. Twenty years across UX, service design, and business analysis in government and enterprise. adamatteia.com, Canberra ACT."}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"property":"article:published_time","content":"2026-06-12T00:00:00+10:00"}],["$","meta","18",{"property":"article:author","content":"Adam Atteia"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"Adam Atteia, complex programs and lasting change"}],["$","meta","21",{"name":"twitter:description","content":"UX, service design, and business analysis for complex government and enterprise programs: security, electoral, regulatory, and foreign affairs. Twenty years, Canberra-based."}],["$","meta","22",{"name":"twitter:image","content":"https://adamatteia.com/opengraph-image?e90568e1e9fac899"}],["$","meta","23",{"name":"twitter:image:alt","content":"Adam Atteia, complex programs and lasting change. Twenty years across UX, service design, and business analysis in government and enterprise. adamatteia.com, Canberra ACT."}],["$","meta","24",{"name":"twitter:image:type","content":"image/png"}],["$","meta","25",{"name":"twitter:image:width","content":"1200"}],["$","meta","26",{"name":"twitter:image:height","content":"630"}],["$","link","27",{"rel":"icon","href":"/favicon.ico","sizes":"48x48"}],["$","link","28",{"rel":"icon","href":"/favicon-32x32.png","type":"image/png","sizes":"32x32"}],["$","link","29",{"rel":"icon","href":"/favicon-192x192.png","type":"image/png","sizes":"192x192"}],["$","link","30",{"rel":"icon","href":"/icon-512.png","type":"image/png","sizes":"512x512"}],["$","link","31",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L21","32",{}]]
+20:null
